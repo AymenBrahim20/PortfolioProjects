@@ -8,4 +8,5 @@ Excel
 
 PowerBI
 
-Pythonds
+Python
+
