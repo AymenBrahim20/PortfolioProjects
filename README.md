@@ -3,6 +3,9 @@ Welcome to my Portfolio Projects repository! This repository contains a collecti
 Technologies Used
 
 SQL
+	
 Excel
+
 PowerBI
-Python
+
+Pythonds
