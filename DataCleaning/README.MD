@@ -23,4 +23,4 @@ The Cleaning Data in SQL Queries project focuses on utilizing SQL queries to cle
 
 The data used for the SQL operations outlined in the previous section was extracted from an Excel file. Below is the link to access the Excel file:
 
-[DataCleaning.xlsx](https://raw.githubusercontent.com/AlexTheAnalyst/PortfolioProjects/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
+[here](https://raw.githubusercontent.com/AlexTheAnalyst/PortfolioProjects/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
