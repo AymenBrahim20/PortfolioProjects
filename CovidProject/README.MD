@@ -12,5 +12,5 @@ The COVID-19 Data Analysis Project is a SQL-based project aimed at analyzing and
 
 ## Data Source
 
-- COVID-19 cases, deaths, vaccinations, and testing data were obtained from [Our World in Data](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&country=USA~GBR~CAN~DEU~ITA~IND&pickerSort=asc&pickerMetric=location&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false&Metric=Excess+mortality+%28estimates%29).
+- COVID-19 cases, deaths, vaccinations, and testing data were obtained from [here](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&country=USA~GBR~CAN~DEU~ITA~IND&pickerSort=asc&pickerMetric=location&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false&Metric=Excess+mortality+%28estimates%29).
 
