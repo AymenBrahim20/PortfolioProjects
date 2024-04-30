@@ -11,6 +11,10 @@ The Data Professional Survey Breakdown project is a Power BI-based analysis aime
   - Created visuals showcasing average salary by job title, favorite programming languages, and perceived difficulty of breaking into the data field.
   - Incorporated visualizations to illustrate respondents' happiness levels with work salary and work-life balance.
 
+
+## Dashboard Showcase
+![Dashboard Preview](ddzad.png)
+
     
 ## Data Derived from Excel
 
