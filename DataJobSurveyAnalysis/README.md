@@ -13,7 +13,7 @@ The Data Professional Survey Breakdown project is a Power BI-based analysis aime
 
 
 ## Dashboard Showcase
-![Dashboard Preview](ddzad.png)
+![Dashboard Preview](DataDashboard.png)
 
     
 ## Data Derived from Excel
