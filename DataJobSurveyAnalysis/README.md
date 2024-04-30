@@ -3,12 +3,14 @@
 ## Overview
 The Data Professional Survey Breakdown project is a Power BI-based analysis aimed at exploring insights from professional surveys within the data field. The project involved data transformation and cleaning to ensure data quality, followed by the creation of visualizations to illustrate key survey findings.
 
+## Key Features
 - **Data Transformation and Cleaning:** Employed Power BI to meticulously transform and cleanse survey data, ensuring utmost accuracy and consistency.
-- **Insightful Visualizations:** Crafted visually captivating and informative representations of survey insights, covering:**
- - Developed compelling visualizations to represent survey insights effectively.
+- **Visualization Creation Based on Survey Insights:** 
+  - Developed compelling visualizations to represent survey insights effectively.
   - Designed charts depicting country distribution of survey takers to understand geographical diversity.
   - Created visuals showcasing average salary by job title, favorite programming languages, and perceived difficulty of breaking into the data field.
   - Incorporated visualizations to illustrate respondents' happiness levels with work salary and work-life balance.
+
     
     ## Data Derived from Excel
 
