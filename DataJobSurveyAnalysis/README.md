@@ -12,6 +12,6 @@ The Data Professional Survey Breakdown project is a Power BI-based analysis aime
     
     ## Data Derived from Excel
 
-The data used for the SQL operations outlined in the previous section was extracted from an Excel file [here](https://raw.githubusercontent.com/AlexTheAnalyst/Power-BI/main/Power%20BI%20-%20Final%20Project.xlsx).
+The data used in this project was extracted from an Excel file [here](https://raw.githubusercontent.com/AlexTheAnalyst/Power-BI/main/Power%20BI%20-%20Final%20Project.xlsx).
 
 
