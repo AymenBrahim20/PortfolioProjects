@@ -12,7 +12,7 @@ The Data Professional Survey Breakdown project is a Power BI-based analysis aime
   - Incorporated visualizations to illustrate respondents' happiness levels with work salary and work-life balance.
 
     
- ## Data Derived from Excel
+## Data Derived from Excel
 
 The data used in this project was extracted from an Excel file [here](https://raw.githubusercontent.com/AlexTheAnalyst/Power-BI/main/Power%20BI%20-%20Final%20Project.xlsx).
 
