@@ -15,14 +15,21 @@ The Football Market Analysis Project is a comprehensive analysis of football pla
      ![Visualization](footballmarket.PNG)
 
 4. **Comparative Analysis:**
-   - Compared player Ratings across leagues, clubs, and positions to identify top performers and trends.
-
+   - Compared player attributes and performance metrics across different football leagues to assess league competitiveness, talent distribution, and market dynamics.
+          ![Visualization](topclubs.PNG)
+   - Examined player performance and characteristics based on their positions, uncovering insights into positional strengths, weaknesses, and market demands.
+          ![Visualization](position.PNG)
+     
 5. **Time-Series Analysis:**
-   - Analyzed player data over time to understand changes in ratings and salaries across different seasons.
+   - Analyzed player data over time to understand identify rising stars, changes in ratings and salaries across different seasons.
+          ![Visualization](change.PNG)
+     
+5. **Country Analysis:**
+   - Identified countries with the most football players to understand global distribution and hotspots of talent.
+          ![Visualization](country.PNG)
+     
+## Data Derived from Excel
 
-
-
-## Data Source
-The data used in this project was sourced from various football databases and reports, ensuring a robust and comprehensive dataset for analysis.
+The data used in this project was extracted from an Excel file [here](https://raw.githubusercontent.com/AlexTheAnalyst/Power-BI/main/Power%20BI%20-%20Final%20Project.xlsx).
 
 
