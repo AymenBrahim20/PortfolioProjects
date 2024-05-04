@@ -11,7 +11,8 @@ The Football Market Analysis Project is a comprehensive analysis of football pla
    - Conducted in-depth exploratory data analysis to uncover trends, patterns, and insights in player data.
 
 3. **Visualization Development:**
-   - Developed interactive visualizations to effectively represent player characteristics, including ratings, transfer values, and salaries.
+   - Developed interactive visualization to effectively represent  player characteristics, including ratings, transfer values, and  clubs with highest salaries expenses on players.
+     ![Visualization](footbal.png)
 
 4. **Comparative Analysis:**
    - Compared player Ratings across leagues, clubs, and positions to identify top performers and trends.
