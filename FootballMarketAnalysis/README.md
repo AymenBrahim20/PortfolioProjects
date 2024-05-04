@@ -3,7 +3,7 @@
 ## Overview
 The Football Market Analysis Project is a comprehensive analysis of football player data spanning the years 2021 to 2022. The project focuses on analyzing various player attributes such as ratings, transfer market values, salaries, leagues, clubs, ages, and positions using Power BI.
 
-## Key Contributions
+## Key Features
 1. **Data Collection and Preparation:**
    - Gathered and prepared data on 30,000 football players from multiple sources for analysis.
 
