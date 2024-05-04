@@ -19,8 +19,6 @@ The Football Market Analysis Project is a comprehensive analysis of football pla
 5. **Time-Series Analysis:**
    - Analyzed player data over time to understand changes in ratings and salaries across different seasons.
 
-6. **Feature Engineering:**
-   - Engineered new features from existing player data to extract more meaningful insights.
 
 
 ## Data Source
